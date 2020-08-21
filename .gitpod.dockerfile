@@ -5,6 +5,7 @@ RUN sudo apt-get update \
 	iputils-ping \
 	netcat-openbsd \
 	iperf3 \
+	speedtest-cli \
 	rsync \
 	fuse3 \
 	sshfs \
