@@ -12,5 +12,5 @@ RUN sudo apt-get update \
 	sshfs \
 	&& sudo rm -rf /var/lib/apt/lists/*
 
-RUN sudo mknod --mode=666 /dev/fuse c 9 229 
+#RUN sudo mknod --mode=666 /dev/fuse c 9 229 
 
