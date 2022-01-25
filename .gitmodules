@@ -1,3 +1,3 @@
 [submodule "CSRBbin"]
 	path = CSRBbin
-	url = git://github.com/CSRBapp/CSRBbin.git
+	url = https://github.com/CSRBapp/CSRBbin.git
